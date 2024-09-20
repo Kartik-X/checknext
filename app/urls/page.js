@@ -16,6 +16,8 @@ export default async function fetchUrls() {
   }
 
   return (
-    <div className="min-vh-100 d-flex flex-column justify-content-center align-items-center bg-light"></div>
+    <div className="min-vh-100 d-flex flex-column justify-content-center align-items-center bg-light">
+      <div>hi</div>
+    </div>
   );
 }
